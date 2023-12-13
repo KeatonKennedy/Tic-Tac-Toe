@@ -1,0 +1,89 @@
+body{
+    background: rgb(90, 90, 90);
+    margin: 0px;
+}
+.container {
+    height: 55vh;
+    width: 55vh;
+    background: rgb(90, 90, 90);
+    position: fixed;
+    top: 25%;
+    left: 36%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    column-gap: 10px;
+        /* margin-left: 33%;
+        margin-top: 15%;
+        height: 55vh;
+        width: 55vh;
+        background: rgb(90, 90, 90); */
+        /* align-items: center;
+        justify-content: center; */
+        /* position: fixed;
+        display: grid;
+        grid-template-rows: auto;
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap:1px;
+        */ 
+} 
+
+h1 {
+    color:rgb(255, 255, 255);
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-style: inset; 
+    border-color: white;
+    padding: 25px;
+    border-radius: 50%;
+}
+.square {
+    height: 150px;
+    width: 150px;
+    background:rgb(255, 255, 255);
+    box-shadow: 10px 10px 10px rgb(51, 50, 50);
+}
+
+.square:hover{
+    background-color: aqua;
+}
+/* .S1 {
+    top: 30%;
+    left: 45%;
+}
+.S2 {
+    top: 30%;
+    left: 55%;
+}
+.S3 {
+    top: 40%;
+    left: 50%;
+
+}
+.S4 {
+    top: 20%;
+    left: 50%;
+}
+.S5 {
+    top: 20%;
+    left: 50%;
+}
+.S6 {
+    top: 20%;
+    left: 50%;
+}
+.S7 {
+    top: 20%;
+    left: 50%;
+}
+.S8 {
+    top: 20%;
+    left: 50%;
+}
+.S9 {
+    top: 20%;
+    left: 50%;
+} */
