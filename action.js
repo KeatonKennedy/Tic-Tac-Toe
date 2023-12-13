@@ -162,11 +162,11 @@ function B6() {
     if (div6 == false) {
         if (player == 1) {
             row_2[2] = 'x';
-            document.getElementById("S6").style.backgroundColor = x;
+            document.getElementById("S6").style.backgroundColor = "blue";
         }
         if (player == 2) {
             row_2[2] = 'o';
-            document.getElementById("S6").style.backgroundColor = o;
+            document.getElementById("S6").style.backgroundColor = "red";
         }
         checking()
     }
