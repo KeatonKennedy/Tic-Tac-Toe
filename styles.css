@@ -14,19 +14,6 @@ body{
     justify-content: center;
     align-items: center;
     column-gap: 10px;
-        /* margin-left: 33%;
-        margin-top: 15%;
-        height: 55vh;
-        width: 55vh;
-        background: rgb(90, 90, 90); */
-        /* align-items: center;
-        justify-content: center; */
-        /* position: fixed;
-        display: grid;
-        grid-template-rows: auto;
-        grid-template-columns: repeat(3, 1fr);
-        grid-gap:1px;
-        */ 
 } 
 
 h1 {
@@ -50,40 +37,3 @@ h1 {
 .square:hover{
     background-color: aqua;
 }
-/* .S1 {
-    top: 30%;
-    left: 45%;
-}
-.S2 {
-    top: 30%;
-    left: 55%;
-}
-.S3 {
-    top: 40%;
-    left: 50%;
-
-}
-.S4 {
-    top: 20%;
-    left: 50%;
-}
-.S5 {
-    top: 20%;
-    left: 50%;
-}
-.S6 {
-    top: 20%;
-    left: 50%;
-}
-.S7 {
-    top: 20%;
-    left: 50%;
-}
-.S8 {
-    top: 20%;
-    left: 50%;
-}
-.S9 {
-    top: 20%;
-    left: 50%;
-} */
